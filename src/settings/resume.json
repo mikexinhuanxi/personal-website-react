@@ -87,16 +87,12 @@
     ],
     "languages": [
         {
-            "language": "German",
-            "fluency": "Native speaker"
+            "language": "",
+            "fluency": ""
         },
         {
             "language": "English",
             "fluency": "Fluent speaker"
-        },
-        {
-            "language": "French",
-            "fluency": "Good knowledge"
         }
     ],
     "interests": [
