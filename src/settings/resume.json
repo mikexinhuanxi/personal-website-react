@@ -8,42 +8,24 @@
         "x_title": "Hey, I'm",
         "job": "student",
         "description": "",
-        "summary": "based in Bremen, Germany.",
-        "keywords": "personal,website,portfolio,template,kit,jo,lienhoop,jolienhoop,computer,science,bremen,germany,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
-        "url": "https://jolienhoop.com",
+        "summary": "",
+        "keywords": "",
+        "url": "",
         "location": {
             "address": "XX XXXXXstreet",
             "postalCode": "XXXXX",
-            "city": "Bremen",
-            "country": "Germany",
-            "countryCode": "DEU",
-            "region": "Bremen"
+            "city": "",
+            "country": "",
+            "countryCode": "",
+            "region": ""
         },
         "profiles": [
-            {
-                "network": "Google",
-                "username": "hey@jolienhoop.com",
-                "url": "mailto:hey@jolienhoop.com",
-                "x_icon": "fab fa-google"
-            },
-            {
-                "network": "LinkedIn",
-                "username": "jolienhoop",
-                "url": "https://www.linkedin.com/in/jolienhoop/",
-                "x_icon": "fab fa-linkedin-in"
-            },
             {
                 "network": "GitHub",
                 "username": "mikexinhuanxi",
                 "url": "https://github.com/mikexinhuanxi",
                 "x_icon": "fab fa-github"
             },
-            {
-                "network": "GitLab",
-                "username": "joli",
-                "url": "https://gitlab.informatik.uni-bremen.de/joli",
-                "x_icon": "fab fa-gitlab"
-            }
         ]
     },
     "work": [
